@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SumCalculatorTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-05-20T12:32:24" hostname="DESKTOP-HVFC59R" time="0.041">
+  <properties/>
+  <testcase name="testThatSumOf0WorksOk()" classname="SumCalculatorTests" time="0.034"/>
+  <testcase name="testThatSumOf3WorksOk()" classname="SumCalculatorTests" time="0.002"/>
+  <testcase name="testThatSumOf1WorksOk()" classname="SumCalculatorTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
